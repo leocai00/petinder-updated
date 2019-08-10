@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Montserrat');
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h1 {
+  font-family: 'Indie Flower', cursive;
+}
+
+header{
+    background-color: #ffbf84;
+}
+
+p, label, input, div{
+  font-family: 'Montserrat', sans-serif;
+}
